@@ -16,6 +16,8 @@
 <hr>
 
 ## HTML & CSS
+
+#### HTML Web Development Crash Course
 <table>
   <tr>
     <th>Date</th>
@@ -24,7 +26,7 @@
   </tr>
   <tr>
     <td width="120">30/01/2018</td>
-    <td width="400">HTML Web Development Crash Course</td>
+    <td align="center" width="400">HTML Web Development Crash Course</td>
     <td><img alt="HTML Web Development Crash Course" src="https://user-images.githubusercontent.com/46372013/79082631-0d5add80-7d17-11ea-9aaa-9afe19d30c3b.jpg" width="350" align="middle"></td>
   </tr>
 </table>
