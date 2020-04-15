@@ -37,6 +37,6 @@
   <tr>
     <td width="120">30/01/2018</td>
     <td align="center" width="400" id="example">HTML Web Development Crash Course</td>
-    <td><img alt="HTML Web Development Crash Course" src="https://user-images.githubusercontent.com/46372013/79082631-0d5add80-7d17-11ea-9aaa-9afe19d30c3b.jpg" width="350" align="middle"></td>
+    <td><img src="Certificates/HTML & CSS/HTML Web Development Crash Course.jpg" width="350"></td>
   </tr>
 </table>
