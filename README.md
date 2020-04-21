@@ -27,7 +27,16 @@
 <details>
   <summary>Game Development & Design</summary>
   
-  - <a href="#game-dev-design">Online Games: Literature, New Media, and Narrative</a>
+  - <a href="#game-dev-design-1">Online Games: Literature, New Media, and Narrative</a>
+</details>
+<details>
+  <summary>Marketing</summary>
+  
+  - <a href="#marketing-1">The Fundamentals of Digital Marketing</a>
+  - <a href="#marketing-2">Instagram Influencer Marketing For Businesses</a>
+  - <a href="#marketing-3">Marketing on LinkedIn</a>
+  - <a href="#marketing-4">Monetização para Games e Aplicativos Mobile</a>
+  - <a href="#marketing-5">The Beginners Guide to Facebook Advertising</a>
 </details>
 <hr>
 
@@ -140,9 +149,44 @@
     <th>Course Name</th>
     <th>Preview</th>
   </tr>
-  <tr id="game-dev-design">
+  <tr id="game-dev-design-1">
     <td width="120">18/09/2014</td>
     <td align="center" width="400">Online Games: Literature, New Media, and Narrative</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/79851180-7c3dd380-83b4-11ea-8215-8f6614a321bb.jpg"></td>
+  </tr>
+<table>
+  
+## Marketing
+
+<table>
+   <tr>
+    <th>Date</th>
+    <th>Course Name</th>
+    <th>Preview</th>
+  </tr>
+  <tr id="marketing-1">
+    <td width="120">28/10/2014</td>
+    <td align="center" width="400">The Fundamentals of Digital Marketing</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/79852433-2d913900-83b6-11ea-878a-b58c93e642b7.jpg" width="350"></td>
+  </tr>
+    <tr id="marketing-2">
+    <td width="120">09/02/2018</td>
+    <td align="center" width="400">Instagram Influencer Marketing For Businesses</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/79852441-308c2980-83b6-11ea-97b1-14a7e96bd42a.jpg" width="350"></td>
+  </tr>
+    <tr id="marketing-3">
+    <td width="120">02/09/2018</td>
+    <td align="center" width="400">Marketing on LinkedIn</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/79852448-3255ed00-83b6-11ea-8e5b-0511b784034e.jpg" width="350"></td>
+  </tr>
+    <tr id="marketing-4">
+    <td width="120">13/09/2018</td>
+    <td align="center" width="400">Bootstrap from Basic to Advanced</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/79852450-33871a00-83b6-11ea-9437-3beb2076125e.jpg" width="350"></td>
+  </tr>
+    <tr id="marketing-5">
+    <td width="120">13/09/2018</td>
+    <td align="center" width="400">The Beginners Guide to Facebook Advertising</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/79852456-3550dd80-83b6-11ea-9934-a7b18228f94c.jpg" width="350"></td>
   </tr>
 <table>
