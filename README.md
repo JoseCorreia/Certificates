@@ -38,6 +38,24 @@
   - <a href="#marketing-4">Monetização para Games e Aplicativos Mobile</a>
   - <a href="#marketing-5">The Beginners Guide to Facebook Advertising</a>
 </details>
+<details>
+  <summary>Miscellaneous</summary>
+  
+  - <a href="#misc-1">Genes and the Human Condition (From Behavior to Biotechnology)</a>
+  - <a href="#misc-2">C# Tutorial course</a>
+  - <a href="#misc-3">S.M.A.R.T. Goals Masterclass: The Complete Certified Course</a>
+  - <a href="#misc-4">Windows Server 2012 Administration for Beginners</a>
+  - <a href="#misc-5">Blender 2.79: Complete training from beginner to pro</a>
+  - <a href="#misc-6">Unlock Your Creativity: The Ultimate Creativity Guide</a>
+  - <a href="#misc-7">Write an Effective College-Level Essay</a>
+  - <a href="#misc-8">Intro to Access - Microsoft Access Basics for Beginners</a>
+  - <a href="#misc-9">The Beginning Guide to Microsoft Access 2013</a>
+  - <a href="#misc-10">Wordpress Basics: Learn Wordpress in one hour!</a>
+  - <a href="#misc-11">Complete Wordpress Course | Elementor</a>
+  - <a href="#misc-12">Computer Science 101</a>
+  - <a href="#misc-13">Git e Github para iniciantes</a>
+  - <a href="#misc-14">Outsystems Associate Web Developer</a>
+</details>
 <hr>
 
 ## HTML & CSS
@@ -188,5 +206,85 @@
     <td width="120">13/09/2018</td>
     <td align="center" width="400">The Beginners Guide to Facebook Advertising</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/79852456-3550dd80-83b6-11ea-9934-a7b18228f94c.jpg" width="350"></td>
+  </tr>
+<table>
+
+## Game Development & Design
+
+<table>
+   <tr>
+    <th>Date</th>
+    <th>Course Name</th>
+    <th>Preview</th>
+  </tr>
+  <tr id="misc-1">
+    <td width="120">20/01/2014</td>
+    <td align="center" width="400">Genes and the Human Condition (From Behavior to Biotechnology)</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80089945-459bc080-854e-11ea-9d5a-6d6e91c7a78f.jpg"></td>
+  </tr>
+  <tr id="misc-2">
+    <td width="120">15/09/2017</td>
+    <td align="center" width="400">C# Tutorial course</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80090278-c8bd1680-854e-11ea-9a6f-27e6bbc23d9f.jpg"></td>
+  </tr>
+  <tr id="misc-3">
+    <td width="120">08/02/2018</td>
+    <td align="center" width="400">S.M.A.R.T. Goals Masterclass: The Complete Certified Course</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80091106-11c19a80-8550-11ea-8486-5459b251c789.jpg"></td>
+  </tr>
+    <tr id="misc-4">
+    <td width="120">21/05/2018</td>
+    <td align="center" width="400">Windows Server 2012 Administration for Beginners</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80091131-1a19d580-8550-11ea-9c35-84531d55325a.jpg"></td>
+  </tr>
+  <tr id="misc-5">
+    <td width="120">01/09/2018</td>
+    <td align="center" width="400">Blender 2.79: Complete training from beginner to pro</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80091089-0e2e1380-8550-11ea-9c61-2ac50366cf62.jpg"></td>
+  </tr>
+    <tr id="misc-6">
+    <td width="120">03/09/2018</td>
+    <td align="center" width="400">Unlock Your Creativity: The Ultimate Creativity Guide</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80091116-15552180-8550-11ea-8405-fb43b0f0da02.jpg"></td>
+  </tr>
+  <tr id="misc-7">
+    <td width="120">16/09/2018</td>
+    <td align="center" width="400">Write an Effective College-Level Essay</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80091134-1be39900-8550-11ea-8bfa-6a3d511d1dcc.jpg"></td>
+  </tr>
+    <tr id="misc-8">
+    <td width="120">12/10/2018</td>
+    <td align="center" width="400">Intro to Access - Microsoft Access Basics for Beginners</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80091097-10906d80-8550-11ea-933c-e1104126b185.jpg"></td>
+  </tr>
+  <tr id="misc-9">
+    <td width="120">01/11/2018</td>
+    <td align="center" width="400">The Beginning Guide to Microsoft Access 2013</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80091113-138b5e00-8550-11ea-88af-4335be8531fd.jpg"></td>
+  </tr>
+  <tr id="misc-10">
+    <td width="120">17/04/2019</td>
+    <td align="center" width="400">Wordpress Basics: Learn Wordpress in one hour!</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80093873-ce1d5f80-8554-11ea-8dd9-fb2cde67771a.jpg"></td>
+  </tr>
+    <tr id="misc-11">
+    <td width="120">20/04/2019</td>
+    <td align="center" width="400">Complete Wordpress Course | Elementor</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80093876-d07fb980-8554-11ea-9007-4bf985394cd9.jpg"></td>
+  </tr>
+  <tr id="misc-12">
+    <td width="120">02/07/2019</td>
+    <td align="center" width="400">Computer Science 101</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80093880-d1b0e680-8554-11ea-9fa5-dd1b93bb73f5.jpg"></td>
+  </tr>
+    <tr id="misc-13">
+    <td width="120">28/08/2019</td>
+    <td align="center" width="400">Git e Github para iniciantes</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80093885-d2e21380-8554-11ea-86d3-6fba14f2c9e0.jpg"></td>
+  </tr>
+  <tr id="misc-14">
+    <td width="120">28/01/2020</td>
+    <td align="center" width="400">Outsystems Associate Web Developer</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80094586-096c5e00-8556-11ea-8865-80dc9166b5e6.jpg"></td>
   </tr>
 <table>
