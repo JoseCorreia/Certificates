@@ -14,6 +14,14 @@
   - <a href="#HTML-css-9">How Flexbox and CSS Grid replaces CSS Floats</a>
   - <a href="#HTML-css-10">Flexbox: The Complete Guide</a>
   - <a href="#HTML-css-11">Write Quicker HTML5 and CSS3: Productivity Hacks with emmet</a>
+  - <a href="#HTML-css-12">HTML, CSS, and JavaScript: The Big Picture</a>
+  - <a href="#HTML-css-13">HTML Fundamentals</a>
+  - <a href="#HTML-css-14">HTML5 Fundamentals</a>
+  - <a href="#HTML-css-15">Meeting Web Accessibility Guidelines (Section 508/ WCAG 2.1)</a>
+  - <a href="#HTML-css-16">Practical HTML5</a>
+  - <a href="#HTML-css-17">Introduction to CSS</a>
+  - <a href="#HTML-css-18">CSS Positioning</a>
+
 </details>
 <details>
   <summary>Bootstrap</summary>
@@ -23,11 +31,17 @@
   - <a href="#bootstrap-3">Understanding Bootstrap Grids and Columns</a>
   - <a href="#bootstrap-4">Bootstrap from Basic to Advanced</a>
   - <a href="#bootstrap-5">Bootstrap 4: Create a landing page</a>
+  - <a href="#bootstrap-6">Web Layouts with Flexbox and Bootstrap</a>
+
 </details>
 <details>
   <summary>Game Development & Design</summary>
   
   - <a href="#game-dev-design-1">Online Games: Literature, New Media, and Narrative</a>
+  - <a href="#game-dev-design-2">Game Design Fundamentals</a>
+  - <a href="#game-dev-design-3">Game Mechanic Design Fundamentals</a>
+  - <a href="#game-dev-design-4">Fundamentals of Professional Level Design</a>
+
 </details>
 <details>
   <summary>Marketing</summary>
@@ -121,7 +135,46 @@
     <td align="center" width="400">Write quicker HTML5 and CSS3 productivity hacks with emmet</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/79736770-dcb40e80-82e9-11ea-8a23-caf1fc3c6cc0.jpg" width="350"></td>
   </tr>
-  
+  <tr id="html-css-12">
+    <td width="120">03/04/2020</td>
+    <td align="center" width="400">HTML, CSS, and JavaScript: The Big Picture</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80828313-98234f80-8bd4-11ea-857c-b64efbd2caab.jpg"></td>
+  </tr>
+  <tr id="html-css-13">
+    <td width="120">05/04/2020</td>
+    <td align="center" width="400">HTML Fundamentals</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80828310-96f22280-8bd4-11ea-982f-b5bacec704d8.jpg"></td>
+  </tr>
+  <tr id="html-css-14">
+    <td width="120">12/04/2020</td>
+    <td align="center" width="400">HTML5 Fundamentals</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80828315-98bbe600-8bd4-11ea-8cb3-171252f104c6.jpg"></td>
+  </tr>
+  <tr id="html-css-15">
+    <td width="120">15/04/2020</td>
+    <td align="center" width="400">Meeting Web Accessibility Guidelines (Section 508 / WCAG 2.1)</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80831388-3d8cf200-8bda-11ea-8ce3-75cb93b22d60.jpg"></td>
+  </tr>
+  <tr id="html-css-16">
+    <td width="120">19/04/2020</td>
+    <td align="center" width="400">Practical HTML5</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80831313-16362500-8bda-11ea-941f-508620ff075a.jpg"></td>
+  </tr>
+  <tr id="html-css-17">
+    <td width="120">24/04/2020</td>
+    <td align="center" width="400">HTML5 Web Component Fundamentals</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80828317-99547c80-8bd4-11ea-9943-0515f06678cd.jpg"></td>
+  </tr>
+  <tr id="html-css-18">
+    <td width="120">28/04/2020</td>
+    <td align="center" width="400">Introduction to CSS</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80831160-c9eae500-8bd9-11ea-96e2-6b06162cf114.jpg"></td>
+  </tr>
+  <tr id="html-css-19">
+    <td width="120">29/04/2020</td>
+    <td align="center" width="400">CSS Positioning</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80828309-96598c00-8bd4-11ea-81e9-b6f45d9c0d26.jpg"></td>
+  </tr>
 </table>
 
 ## Bootstrap
@@ -157,6 +210,11 @@
     <td align="center" width="400">Bootstrap 4: Create a landing page</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/79738932-fc990180-82ec-11ea-8592-bb61a050b0fc.jpg" width="350"></td>
   </tr>
+    </tr>
+    <tr id="bootstrap-6">
+    <td width="120">30/04/2020</td>
+    <td align="center" width="400">Web Layouts with Flexbox and Bootstrap 4</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80827005-b8eaa580-8bd2-11ea-9fbb-42278c91caf4.jpg" width="350"></td>
 <table>
 
 ## Game Development & Design
@@ -171,6 +229,21 @@
     <td width="120">18/09/2014</td>
     <td align="center" width="400">Online Games: Literature, New Media, and Narrative</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/79851180-7c3dd380-83b4-11ea-8215-8f6614a321bb.jpg"></td>
+  </tr>
+    <tr id="game-dev-design-2">
+    <td width="120">27/04/2020</td>
+    <td align="center" width="400">Game Design Fundamentals</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80827078-d750a100-8bd2-11ea-929c-495cd338e78b.jpg"></td>
+  </tr>
+    <tr id="game-dev-design-3">
+    <td width="120">30/04/2020</td>
+    <td align="center" width="400">Game Mechanic Design Fundamentals</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80827080-d881ce00-8bd2-11ea-911a-f447bd4fb880.jpg"></td>
+  </tr>
+    <tr id="game-dev-design-4">
+    <td width="120">30/04/2020</td>
+    <td align="center" width="400">Fundamentals of Professional Level Design</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/80827075-d61f7400-8bd2-11ea-88f7-515113b8c72c.jpg"></td>
   </tr>
 <table>
   
