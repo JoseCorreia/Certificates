@@ -52,6 +52,13 @@
   - <a href="#marketing-4">Monetização para Games e Aplicativos Mobile</a>
   - <a href="#marketing-5">The Beginners Guide to Facebook Advertising</a>
 </details>
+
+<details>
+  <summary>Art</summary>
+  
+  - <a href="#art-1">The Procreate 4.1 Super Course</a>
+  
+</details>
 <details>
   <summary>Miscellaneous</summary>
   
@@ -282,7 +289,7 @@
   </tr>
 <table>
 
-## Game Development & Design
+## Miscellaneous
 
 <table>
    <tr>
