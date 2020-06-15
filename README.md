@@ -41,6 +41,8 @@
   - <a href="#game-dev-design-2">Game Design Fundamentals</a>
   - <a href="#game-dev-design-3">Game Mechanic Design Fundamentals</a>
   - <a href="#game-dev-design-4">Fundamentals of Professional Level Design</a>
+  - <a href="#game-dev-design-5">Unity 2018 Fundamentals</a>
+  - <a href="#game-dev-design-6">Unity C# Scripting Fundamentals</a>
 
 </details>
 <details>
