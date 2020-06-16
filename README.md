@@ -43,6 +43,8 @@
   - <a href="#game-dev-design-4">Fundamentals of Professional Level Design</a>
   - <a href="#game-dev-design-5">Unity 2018 Fundamentals</a>
   - <a href="#game-dev-design-6">Unity C# Scripting Fundamentals</a>
+  - <a href="#game-dev-design-7">Unity Animation Fundamentals</a>
+
 
 </details>
 <details>
