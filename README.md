@@ -47,9 +47,15 @@
   - <a href="#game-dev-design-8">Unity Physics Fundamentals</a>
   - <a href="#game-dev-design-9">Unity Navigation Fundamentals</a>
 
-
-
 </details>
+
+<details>
+  <summary>Art</summary>
+  
+  - <a href="#art-1">The Procreate 4.1 Super Course</a>
+  
+</details>
+
 <details>
   <summary>Marketing</summary>
   
@@ -60,12 +66,6 @@
   - <a href="#marketing-5">The Beginners Guide to Facebook Advertising</a>
 </details>
 
-<details>
-  <summary>Art</summary>
-  
-  - <a href="#art-1">The Procreate 4.1 Super Course</a>
-  
-</details>
 <details>
   <summary>Miscellaneous</summary>
   
@@ -258,6 +258,21 @@
     <td width="120">30/04/2020</td>
     <td align="center" width="400">Fundamentals of Professional Level Design</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/80827075-d61f7400-8bd2-11ea-88f7-515113b8c72c.jpg"></td>
+  </tr>
+<table>
+  
+ ## Art
+
+<table>
+   <tr>
+    <th>Date</th>
+    <th>Course Name</th>
+    <th>Preview</th>
+  </tr>
+  <tr id="art-1">
+    <td width="120">19/06/2020</td>
+    <td align="center" width="400">The Procreate 4.1 Super Course</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/85179132-a9e9b080-b26f-11ea-8c04-30a8e9532f0c.jpg"></td>
   </tr>
 <table>
   
