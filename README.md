@@ -244,20 +244,25 @@
     <td align="center" width="400">Online Games: Literature, New Media, and Narrative</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/79851180-7c3dd380-83b4-11ea-8215-8f6614a321bb.jpg"></td>
   </tr>
-    <tr id="game-dev-design-2">
+  <tr id="game-dev-design-2">
     <td width="120">27/04/2020</td>
     <td align="center" width="400">Game Design Fundamentals</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/80827078-d750a100-8bd2-11ea-929c-495cd338e78b.jpg"></td>
   </tr>
-    <tr id="game-dev-design-3">
+  <tr id="game-dev-design-3">
     <td width="120">30/04/2020</td>
     <td align="center" width="400">Game Mechanic Design Fundamentals</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/80827080-d881ce00-8bd2-11ea-911a-f447bd4fb880.jpg"></td>
   </tr>
-    <tr id="game-dev-design-4">
+  <tr id="game-dev-design-4">
     <td width="120">30/04/2020</td>
     <td align="center" width="400">Fundamentals of Professional Level Design</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/80827075-d61f7400-8bd2-11ea-88f7-515113b8c72c.jpg"></td>
+  </tr>
+  <tr id="game-dev-design-5">
+    <td width="120">20/06/2020</td>
+    <td align="center" width="400">Unity 2018 Fundamentals</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/85212954-9dd12200-b347-11ea-8128-6298c6a46848.jpg"></td>
   </tr>
 <table>
   
