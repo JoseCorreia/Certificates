@@ -264,6 +264,16 @@
     <td align="center" width="400">Unity 2018 Fundamentals</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/85212954-9dd12200-b347-11ea-8128-6298c6a46848.jpg"></td>
   </tr>
+  <tr id="game-dev-design-6">
+    <td width="120">21/06/2020</td>
+    <td align="center" width="400">Unity C# Scripting Fundamentals</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/85236477-e3582280-b40d-11ea-8af6-a556aabbe861.jpg"></td>
+  </tr>
+  <tr id="game-dev-design-7">
+    <td width="120">21/06/2020</td>
+    <td align="center" width="400">Unity Animation Fundamentals</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/85236476-e226f580-b40d-11ea-96e8-8545ff5cf976.jpg"></td>
+  </tr>
 <table>
   
  ## Art
