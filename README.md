@@ -274,6 +274,11 @@
     <td align="center" width="400">Unity Animation Fundamentals</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/85236476-e226f580-b40d-11ea-96e8-8545ff5cf976.jpg"></td>
   </tr>
+  <tr id="game-dev-design-8">
+    <td width="120">22/06/2020</td>
+    <td align="center" width="400">Unity Physics Fundamentals</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/85301640-96209300-b497-11ea-8044-28e9837d50f9.jpg"></td>
+  </tr>
 <table>
   
  ## Art
