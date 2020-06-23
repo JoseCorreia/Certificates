@@ -190,6 +190,7 @@
     <td><img src="https://user-images.githubusercontent.com/46372013/80828309-96598c00-8bd4-11ea-81e9-b6f45d9c0d26.jpg"></td>
   </tr>
 </table>
+
 [Back to top](#Certificates)
 
 ## Bootstrap
@@ -231,6 +232,7 @@
     <td align="center" width="400">Web Layouts with Flexbox and Bootstrap 4</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/80827005-b8eaa580-8bd2-11ea-9fbb-42278c91caf4.jpg" width="350"></td>
 <table>
+  
 [Back to top](#Certificates)
 
 ## Game Development & Design
@@ -287,6 +289,7 @@
     <td><img src="https://user-images.githubusercontent.com/46372013/85320810-33d58b80-b4b3-11ea-8cbf-c28bc2300a4d.jpg"></td>
   </tr>
 <table>
+  
 [Back to top](#Certificates)
 
  ## Art
@@ -303,6 +306,7 @@
     <td><img src="https://user-images.githubusercontent.com/46372013/85179132-a9e9b080-b26f-11ea-8c04-30a8e9532f0c.jpg"></td>
   </tr>
 <table>
+  
 [Back to top](#Certificates)
   
 ## Marketing
@@ -339,6 +343,7 @@
     <td><img src="https://user-images.githubusercontent.com/46372013/79852456-3550dd80-83b6-11ea-9934-a7b18228f94c.jpg" width="350"></td>
   </tr>
 <table>
+  
 [Back to top](#Certificates)
 
 ## Miscellaneous
@@ -420,4 +425,5 @@
     <td><img src="https://user-images.githubusercontent.com/46372013/80094586-096c5e00-8556-11ea-8865-80dc9166b5e6.jpg"></td>
   </tr>
 <table>
+  
 [Back to top](#Certificates)  
