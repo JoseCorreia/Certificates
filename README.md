@@ -1,6 +1,6 @@
 # Certificates
 
-<details>
+<details id="list>
   <summary>HTML & CSS</summary>
   
   - <a href="#html-css-1">HTML Web Development Crash Course</a>
@@ -232,6 +232,8 @@
     <td align="center" width="400">Web Layouts with Flexbox and Bootstrap 4</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/80827005-b8eaa580-8bd2-11ea-9fbb-42278c91caf4.jpg" width="350"></td>
 <table>
+  
+<a href="#list">Back to top</a>
 
 ## Game Development & Design
 
