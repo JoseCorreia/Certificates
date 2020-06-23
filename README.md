@@ -1,6 +1,6 @@
 # Certificates
 
-<details id="list>
+<details>
   <summary>HTML & CSS</summary>
   
   - <a href="#html-css-1">HTML Web Development Crash Course</a>
@@ -233,7 +233,8 @@
     <td><img src="https://user-images.githubusercontent.com/46372013/80827005-b8eaa580-8bd2-11ea-9fbb-42278c91caf4.jpg" width="350"></td>
 <table>
   
-<a href="#list">Back to top</a>
+[create an anchor](#Certificates)
+
 
 ## Game Development & Design
 
