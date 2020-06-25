@@ -32,7 +32,6 @@
   - <a href="#bootstrap-4">Bootstrap from Basic to Advanced</a>
   - <a href="#bootstrap-5">Bootstrap 4: Create a landing page</a>
   - <a href="#bootstrap-6">Web Layouts with Flexbox and Bootstrap</a>
-
 </details>
 <details>
   <summary>Game Development & Design</summary>
@@ -46,7 +45,7 @@
   - <a href="#game-dev-design-7">Unity Animation Fundamentals</a>
   - <a href="#game-dev-design-8">Unity Physics Fundamentals</a>
   - <a href="#game-dev-design-9">Unity Navigation Fundamentals</a>
-
+  - <a href="#game-dev-design-10">Unity Material Fundamentals</a>
 </details>
 
 <details>
@@ -287,6 +286,11 @@
     <td width="120">22/06/2020</td>
     <td align="center" width="400">Unity Navigation Fundamentals</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/85320810-33d58b80-b4b3-11ea-8cbf-c28bc2300a4d.jpg"></td>
+  </tr>
+  <tr id="game-dev-design-10">
+    <td width="120">25/06/2020</td>
+    <td align="center" width="400">Unity Material Fundamentals</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/85720860-58627b00-b6e0-11ea-9d93-286bb94cba73.jpg"></td>
   </tr>
 <table>
   
