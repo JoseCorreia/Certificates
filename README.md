@@ -46,6 +46,8 @@
   - <a href="#game-dev-design-8">Unity Physics Fundamentals</a>
   - <a href="#game-dev-design-9">Unity Navigation Fundamentals</a>
   - <a href="#game-dev-design-10">Unity Material Fundamentals</a>
+  - <a href="#game-dev-design-11">Unity Lightning Fundamentals</a>
+
 </details>
 
 <details>
@@ -291,6 +293,11 @@
     <td width="120">25/06/2020</td>
     <td align="center" width="400">Unity Material Fundamentals</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/85720860-58627b00-b6e0-11ea-9d93-286bb94cba73.jpg"></td>
+  </tr>
+  <tr id="game-dev-design-11">
+    <td width="120">26/06/2020</td>
+    <td align="center" width="400">Unity Lightning Fundamentals</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/85869413-27a34400-b7bb-11ea-90dc-bb0d8e18c5ce.jpg"></td>
   </tr>
 <table>
   
