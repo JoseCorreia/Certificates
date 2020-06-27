@@ -47,6 +47,7 @@
   - <a href="#game-dev-design-9">Unity Navigation Fundamentals</a>
   - <a href="#game-dev-design-10">Unity Material Fundamentals</a>
   - <a href="#game-dev-design-11">Unity Lightning Fundamentals</a>
+  - <a href="#game-dev-design-12">Unity Audio Fundamentals</a>
 
 </details>
 
