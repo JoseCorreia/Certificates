@@ -300,6 +300,11 @@
     <td align="center" width="400">Unity Lightning Fundamentals</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/85869413-27a34400-b7bb-11ea-90dc-bb0d8e18c5ce.jpg"></td>
   </tr>
+  <tr id="game-dev-design-12">
+    <td width="120">29/06/2020</td>
+    <td align="center" width="400">Unity Audio Fundamentals</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/86032134-65f06b80-ba26-11ea-8ad8-1ac465f3b43e.jpg"></td>
+  </tr>
 <table>
   
 [Back to top](#Certificates)
