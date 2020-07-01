@@ -48,6 +48,8 @@
   - <a href="#game-dev-design-10">Unity Material Fundamentals</a>
   - <a href="#game-dev-design-11">Unity Lightning Fundamentals</a>
   - <a href="#game-dev-design-12">Unity Audio Fundamentals</a>
+  - <a href="#game-dev-design-13">Unity 2018 UI Fundamentals</a>
+
 
 </details>
 
@@ -304,6 +306,11 @@
     <td width="120">29/06/2020</td>
     <td align="center" width="400">Unity Audio Fundamentals</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/86032134-65f06b80-ba26-11ea-8ad8-1ac465f3b43e.jpg"></td>
+  </tr>
+  <tr id="game-dev-design-13">
+    <td width="120">30/06/2020</td>
+    <td align="center" width="400">Unity 2018 UI Fundamentals</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/86220953-cc36d480-bb73-11ea-8614-f347c1eda514.jpg"></td>
   </tr>
 <table>
   
