@@ -51,6 +51,7 @@
   - <a href="#game-dev-design-13">Unity 2018 UI Fundamentals</a>
   - <a href="#game-dev-design-14">Unity Gameplay Programming Fundamentals</a>
   - <a href="#game-dev-design-15">Building Games with Unity Services: Monetization & Analytics</a>
+  - <a href="#game-dev-design-16">Building Games with Unity Services: In-app Purchases and Cloud</a>
 </details>
 
 <details>
@@ -321,6 +322,11 @@
     <td width="120">03/07/2020</td>
     <td align="center" width="400">Building Games with Unity Services: Monetization & Analytics</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/86488982-5e94cf00-bd52-11ea-894b-b01e3fb22780.jpg"></td>
+  </tr>
+  <tr id="game-dev-design-16">
+    <td width="120">04/07/2020</td>
+    <td align="center" width="400">Building Games with Unity Services: In-app Purchases and Cloud Build</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/86518588-02997b80-be22-11ea-82e7-7e7ed81f95a3.jpg"></td>
   </tr>
 <table>
   
