@@ -52,6 +52,7 @@
   - <a href="#game-dev-design-14">Unity Gameplay Programming Fundamentals</a>
   - <a href="#game-dev-design-15">Building Games with Unity Services: Monetization & Analytics</a>
   - <a href="#game-dev-design-16">Building Games with Unity Services: In-app Purchases and Cloud</a>
+  - <a href="#game-dev-design-17">C# Scripting in Unity: Beyond the Basics</a>
 </details>
 
 <details>
@@ -327,6 +328,11 @@
     <td width="120">04/07/2020</td>
     <td align="center" width="400">Building Games with Unity Services: In-app Purchases and Cloud Build</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/86518588-02997b80-be22-11ea-82e7-7e7ed81f95a3.jpg"></td>
+  </tr>
+  <tr id="game-dev-design-17">
+    <td width="120">06/07/2020</td>
+    <td align="center" width="400">C# Scripting in Unity: Beyond the Basics</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/86602607-69d63d80-bf92-11ea-8995-80db32299672.jpg"></td>
   </tr>
 <table>
   
