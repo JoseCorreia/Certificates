@@ -54,7 +54,7 @@
   - <a href="#game-dev-design-16">Building Games with Unity Services: In-app Purchases and Cloud</a>
   - <a href="#game-dev-design-17">C# Scripting in Unity: Beyond the Basics</a>
   - <a href="#game-dev-design-18">Finite State Machines in Unity</a>
-
+  - <a href="#game-dev-design-19">Unity GameObject Singletons: Best Practices</a>
 </details>
 
 <details>
@@ -340,6 +340,11 @@
     <td width="120">07/07/2020</td>
     <td align="center" width="400">Finite State Machines in Unity</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/86793869-6d81c700-c05b-11ea-8694-1196cabeb216.jpg"></td>
+  </tr>
+  <tr id="game-dev-design-19">
+    <td width="120">08/07/2020</td>
+    <td align="center" width="400">Unity GameObject Singletons: Best Practices</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/86909846-43d2a980-c108-11ea-8598-430a6fda5660.jpg"></td>
   </tr>
 <table>
   
