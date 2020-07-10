@@ -55,6 +55,8 @@
   - <a href="#game-dev-design-17">C# Scripting in Unity: Beyond the Basics</a>
   - <a href="#game-dev-design-18">Finite State Machines in Unity</a>
   - <a href="#game-dev-design-19">Unity GameObject Singletons: Best Practices</a>
+  - <a href="#game-dev-design-20">Swords and Shovels Character Controller and AI</a>
+
 </details>
 
 <details>
@@ -345,6 +347,11 @@
     <td width="120">08/07/2020</td>
     <td align="center" width="400">Unity GameObject Singletons: Best Practices</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/86909846-43d2a980-c108-11ea-8598-430a6fda5660.jpg"></td>
+  </tr>
+  <tr id="game-dev-design-20">
+    <td width="120">09/07/2020</td>
+    <td align="center" width="400">Swords and Shovels Character Controller and AI</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/87137468-786f6e00-c28c-11ea-8401-705bded5aba2.jpg"></td>
   </tr>
 <table>
   
