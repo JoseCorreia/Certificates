@@ -56,6 +56,7 @@
   - <a href="#game-dev-design-18">Finite State Machines in Unity</a>
   - <a href="#game-dev-design-19">Unity GameObject Singletons: Best Practices</a>
   - <a href="#game-dev-design-20">Swords and Shovels Character Controller and AI</a>
+  - <a href="#game-dev-design-21">Creating a Character Stat System in Unity</a>
 
 </details>
 
@@ -352,6 +353,11 @@
     <td width="120">09/07/2020</td>
     <td align="center" width="400">Swords and Shovels Character Controller and AI</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/87137468-786f6e00-c28c-11ea-8401-705bded5aba2.jpg"></td>
+  </tr>
+  <tr id="game-dev-design-21">
+    <td width="120">11/07/2020</td>
+    <td align="center" width="400">Creating a Character Stat System in Unity</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/87230941-97f8ba80-c3a2-11ea-91e3-2a3782cbef0a.jpg"></td>
   </tr>
 <table>
   
