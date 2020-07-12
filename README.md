@@ -57,7 +57,7 @@
   - <a href="#game-dev-design-19">Unity GameObject Singletons: Best Practices</a>
   - <a href="#game-dev-design-20">Swords and Shovels Character Controller and AI</a>
   - <a href="#game-dev-design-21">Creating a Character Stat System in Unity</a>
-
+  - <a href="#game-dev-design-22">Swords and Shovels: Game Managers, Loaders, and the Game Loop</a>
 </details>
 
 <details>
@@ -358,6 +358,11 @@
     <td width="120">11/07/2020</td>
     <td align="center" width="400">Creating a Character Stat System in Unity</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/87230941-97f8ba80-c3a2-11ea-91e3-2a3782cbef0a.jpg"></td>
+  </tr>
+  <tr id="game-dev-design-22">
+    <td width="120">12/07/2020</td>
+    <td align="center" width="400">Swords and Shovels: Game Managers, Loaders, and the Game Loop</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/87244465-20bc3880-c42d-11ea-90cf-a2a6a31eb4ad.jpg"></td>
   </tr>
 <table>
   
