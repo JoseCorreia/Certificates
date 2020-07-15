@@ -60,7 +60,7 @@
   - <a href="#game-dev-design-22">Swords and Shovels: Game Managers, Loaders, and the Game Loop</a>
   - <a href="#game-dev-design-23">Creating a Loot System in Unity</a>
   - <a href="#game-dev-design-24">Creating a Character Inventory System in Unity</a>
-
+  - <a href="#game-dev-design-25">Swords and Shovels: Combat System</a>
 </details>
 
 <details>
@@ -376,6 +376,11 @@
     <td width="120">14/07/2020</td>
     <td align="center" width="400">Creating a Character Inventory System in Unity</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/87449508-d08bd480-c5ec-11ea-83ad-fdb368ad80a4.jpg"></td>
+  </tr>
+  <tr id="game-dev-design-25">
+    <td width="120">15/07/2020</td>
+    <td align="center" width="400">Swords and Shovels: Combat System</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/87575499-8d4e6600-c6bf-11ea-9273-9e5e108fcdea.jpg"></td>
   </tr>
 <table>
   
