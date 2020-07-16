@@ -61,6 +61,7 @@
   - <a href="#game-dev-design-23">Creating a Loot System in Unity</a>
   - <a href="#game-dev-design-24">Creating a Character Inventory System in Unity</a>
   - <a href="#game-dev-design-25">Swords and Shovels: Combat System</a>
+  - <a href="#game-dev-design-26">Swords and Shovels: Closing the Loop</a>
 </details>
 
 <details>
@@ -381,6 +382,11 @@
     <td width="120">15/07/2020</td>
     <td align="center" width="400">Swords and Shovels: Combat System</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/87575499-8d4e6600-c6bf-11ea-9273-9e5e108fcdea.jpg"></td>
+  </tr>
+  <tr id="game-dev-design-26">
+    <td width="120">16/07/2020</td>
+    <td align="center" width="400">Swords and Shovels: Closing the Loop</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/87685152-99dfc680-c772-11ea-9af1-dbc3fe149998.jpg"></td>
   </tr>
 <table>
   
