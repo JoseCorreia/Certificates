@@ -62,6 +62,7 @@
   - <a href="#game-dev-design-24">Creating a Character Inventory System in Unity</a>
   - <a href="#game-dev-design-25">Swords and Shovels: Combat System</a>
   - <a href="#game-dev-design-26">Swords and Shovels: Closing the Loop</a>
+  - <a href="#game-dev-design-27">Saving Persistent Player Data in Unity</a>
 </details>
 
 <details>
@@ -387,6 +388,11 @@
     <td width="120">16/07/2020</td>
     <td align="center" width="400">Swords and Shovels: Closing the Loop</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/87685152-99dfc680-c772-11ea-9af1-dbc3fe149998.jpg"></td>
+  </tr>
+  <tr id="game-dev-design-27">
+    <td width="120">16/07/2020</td>
+    <td align="center" width="400">Saving Persistent Player Data in Unity</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/87828535-aa746780-c86c-11ea-87d0-5c65fd768dca.jpg"></td>
   </tr>
 <table>
   
