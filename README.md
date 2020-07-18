@@ -63,6 +63,8 @@
   - <a href="#game-dev-design-25">Swords and Shovels: Combat System</a>
   - <a href="#game-dev-design-26">Swords and Shovels: Closing the Loop</a>
   - <a href="#game-dev-design-27">Saving Persistent Player Data in Unity</a>
+  - <a href="#game-dev-design-28">C# Scripting in Unity: Script Optimization</a>
+
 </details>
 
 <details>
@@ -393,6 +395,11 @@
     <td width="120">16/07/2020</td>
     <td align="center" width="400">Saving Persistent Player Data in Unity</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/87828535-aa746780-c86c-11ea-87d0-5c65fd768dca.jpg"></td>
+  </tr>
+  <tr id="game-dev-design-28">
+    <td width="120">16/07/2020</td>
+    <td align="center" width="400">C# Scripting in Unity: Script Optimization</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/87858500-e74c6700-c91d-11ea-9323-638272057095.jpg"></td>
   </tr>
 <table>
   
