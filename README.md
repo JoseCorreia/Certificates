@@ -76,6 +76,10 @@
 </details>
 
 <details>
+  <summary>Languages</summary>  
+</details>
+
+<details>
   <summary>Marketing</summary>
   
   - <a href="#marketing-1">The Fundamentals of Digital Marketing</a>
