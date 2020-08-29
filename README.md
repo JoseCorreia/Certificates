@@ -19,8 +19,10 @@
   - <a href="#HTML-css-14">HTML5 Fundamentals</a>
   - <a href="#HTML-css-15">Meeting Web Accessibility Guidelines (Section 508/ WCAG 2.1)</a>
   - <a href="#HTML-css-16">Practical HTML5</a>
-  - <a href="#HTML-css-17">Introduction to CSS</a>
-  - <a href="#HTML-css-18">CSS Positioning</a>
+  - <a href="#HTML-css-17">HTML5 Web Component Fundamentals</a>
+  - <a href="#HTML-css-18">Introduction to CSS</a>
+  - <a href="#HTML-css-19">CSS Positioning</a>
+  - <a href="#HTML-css-20">Responsive Web Design</a>
 
 </details>
 <details>
@@ -73,10 +75,6 @@
   
   - <a href="#art-1">The Procreate 4.1 Super Course</a>
   
-</details>
-
-<details>
-  <summary>Languages</summary>  
 </details>
 
 <details>
@@ -211,6 +209,11 @@
     <td width="120">29/04/2020</td>
     <td align="center" width="400">CSS Positioning</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/80828309-96598c00-8bd4-11ea-81e9-b6f45d9c0d26.jpg"></td>
+  </tr>
+  <tr id="html-css-20">
+    <td width="120">28/08/2020</td>
+    <td align="center" width="400">Responsive Web Design</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/91641271-bd08c180-ea12-11ea-9035-5fa64dceff81.jpg"></td>
   </tr>
 </table>
 
