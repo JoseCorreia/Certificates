@@ -23,6 +23,7 @@
   - <a href="#HTML-css-18">Introduction to CSS</a>
   - <a href="#HTML-css-19">CSS Positioning</a>
   - <a href="#HTML-css-20">Responsive Web Design</a>
+  - <a href="#HTML-css-21">HTML & CSS: Build a Dashboard</a>
 
 </details>
 <details>
@@ -214,6 +215,11 @@
     <td width="120">28/08/2020</td>
     <td align="center" width="400">Responsive Web Design</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/91641271-bd08c180-ea12-11ea-9035-5fa64dceff81.jpg"></td>
+  </tr>
+  <tr id="html-css-21">
+    <td width="120">30/08/2020</td>
+    <td align="center" width="400">HTML & CSS: Build a Dashboard</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/91665729-56090c80-eae7-11ea-946e-11f8d5ee895a.jpg"></td>
   </tr>
 </table>
 
