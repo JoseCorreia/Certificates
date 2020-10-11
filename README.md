@@ -105,6 +105,9 @@
   - <a href="#misc-12">Computer Science 101</a>
   - <a href="#misc-13">Git e Github para iniciantes</a>
   - <a href="#misc-14">Outsystems Associate Web Developer</a>
+  - <a href="#misc-15">Build Your Own Custom Computer!</a>
+  - <a href="#misc-16">How to Make a Wordpress Website Step by Step</a>
+
 </details>
 <hr>
 
@@ -560,6 +563,16 @@
     <td width="120">28/01/2020</td>
     <td align="center" width="400">Outsystems Associate Web Developer</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/80094586-096c5e00-8556-11ea-8865-80dc9166b5e6.jpg"></td>
+  </tr>
+  <tr id="misc-15">
+    <td width="120">11/10/2020</td>
+    <td align="center" width="400">Build Your Own Custom Computer!</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/95689429-37c32000-0c00-11eb-8e32-b5d75c64bf28.jpg"></td>
+  </tr>
+  <tr id="misc-16">
+    <td width="120">11/10/2020</td>
+    <td align="center" width="400">How to Make a Wordpress Website Step by Step</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/95689747-6e9a3580-0c02-11eb-9cd2-a40ef24eb626.jpg"></td>
   </tr>
 <table>
   
