@@ -36,6 +36,14 @@
   - <a href="#bootstrap-5">Bootstrap 4: Create a landing page</a>
   - <a href="#bootstrap-6">Web Layouts with Flexbox and Bootstrap</a>
 </details>
+
+<details>
+  <summary>Programming</summary>
+  
+  - <a href="#programming-1">JavaScript Algorithms and Data Structures</a>
+  
+</details>
+
 <details>
   <summary>Game Development & Design</summary>
   
@@ -266,6 +274,23 @@
     <td width="120">30/04/2020</td>
     <td align="center" width="400">Web Layouts with Flexbox and Bootstrap 4</td>
     <td><img src="https://user-images.githubusercontent.com/46372013/80827005-b8eaa580-8bd2-11ea-9fbb-42278c91caf4.jpg" width="350"></td>
+<table>
+  
+[Back to top](#Certificates)
+
+## Programming
+
+<table>
+   <tr>
+    <th>Date</th>
+    <th>Course Name</th>
+    <th>Preview</th>
+  </tr>
+  <tr id="programming-1">
+    <td width="120">14/10/2020</td>
+    <td align="center" width="400">JavaScript Algorithms and Data Structures</td>
+    <td><img src="https://user-images.githubusercontent.com/46372013/100668645-c83df700-334b-11eb-842a-3718f7b37af8.jpg"></td>
+  </tr>
 <table>
   
 [Back to top](#Certificates)
